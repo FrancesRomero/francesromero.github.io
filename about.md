@@ -23,4 +23,4 @@ fgentaromero@gmail.com
 
 ## Thanks
 
-Thank you for checking out my page! I appreciate you taking the time to check it out :) 
+Thank you for checking out my page! I appreciate you taking the time to visit :) 
