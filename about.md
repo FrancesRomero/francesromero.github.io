@@ -4,7 +4,7 @@ title: About
 nav_header: true #If you want the page to be displayed on the nav menu on top of the site, leave "true" here. If not, you can leave it blank
 permalink: /about/
 ---
- ![IMG_2926](IMG_2926.png)
+ ![IMG_2926](IMG_2926.png) 
 
 ## Bio
 
@@ -14,7 +14,7 @@ I'm Frances Romero, a data scientist based in Portland, Oregon. I earned my bach
 
 After my undergraduate studies, I enrolled in Willamette University’s master's program in data science, and I’m set to graduate in August 2024. Currently, I work as a sales data analyst for Trimble Inc., a software company headquartered in Westminster, Colorado. My work involves leveraging tools like R, Python, SQL, and DOMO to drive data-driven decision-making.
 
-I'm particularly interested in applying my data science skills to work for the Department of Education. In my free time, I enjoy playing roller derby with the Rose City Rollers.
+I'm particularly interested in applying my data science skills to work for the Department of Education. In my free time, I enjoy playing roller derby with the Rose City Rollers!
 
 ## Contact
 
