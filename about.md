@@ -4,7 +4,7 @@ title: About
 nav_header: true #If you want the page to be displayed on the nav menu on top of the site, leave "true" here. If not, you can leave it blank
 permalink: /about/
 ---
-<img src="./IMG_2926.png" width="300" height="300" class="img-responsive" alt=""> </div>
+<img src="./IMG_2926.png" width="300" height="300" class="img-responsive" alt="IMG_2926"> </div>
 
 ## Bio
 
