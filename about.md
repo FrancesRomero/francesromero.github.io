@@ -7,7 +7,9 @@ permalink: /about/
 
 ## Bio
 
-Welcome to my page! I'm Frances Romero, a data scientist based in Portland, Oregon. I earned my bachelor's degree in biology and environmental science from Bryn Mawr College, where I discovered my passion for coding while analyzing ecological data using R.
+Welcome to my page! 
+
+I'm Frances Romero, a data scientist based in Portland, Oregon. I earned my bachelor's degree in biology and environmental science from Bryn Mawr College, where I discovered my passion for coding while analyzing ecological data using R.
 
 After my undergraduate studies, I enrolled in Willamette University’s master's program in data science, and I’m set to graduate in August 2024. Currently, I work as a sales data analyst for Trimble Inc., a software company headquartered in Westminster, Colorado. My work involves leveraging tools like R, Python, SQL, and DOMO to drive data-driven decision-making.
 
