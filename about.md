@@ -17,9 +17,9 @@ I'm particularly interested in applying my data science skills to work for the D
 
 If you would like to get in contact, please reach out!
 
-Gmail: fgentaromero@gmail.com
+fgentaromero@gmail.com
 
-[LinedIn](https://www.linkedin.com/in/frances-romero/).
+[LinedIn](https://www.linkedin.com/in/frances-romero/)
 
 ## Thanks
 
