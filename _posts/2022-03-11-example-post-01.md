@@ -1,6 +1,6 @@
 ---
 layout: post
-"Game of Thrones Characters"
+title: "Game of Thrones Characters"
 category:
   - "P_Quod"
   - "Another P_Quod"
