@@ -3,8 +3,7 @@ layout: post
 title: "Game of Thrones"
 date: 2024-7-14
 category:
-  - "P_Quod"
-  - "Another P_Quod"
+  - "Survival Analysis"
 ---
 
 Survival Analysis of Game of Thrones Characters:
