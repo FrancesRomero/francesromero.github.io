@@ -5,7 +5,6 @@ layout: page
 {{ content }}
 {% assign biocontent = page.content | strip_newlines %}
 {% unless  biocontent == '' %}
-    <h2>Posts by {{page.title}}</h2>
 {% endunless %}
 <table class="archives-table">
     {% for post in site.posts %}
