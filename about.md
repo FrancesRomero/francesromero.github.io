@@ -22,7 +22,7 @@ If you would like to get in contact, please reach out!
 
 fgentaromero@gmail.com
 
-[LinedIn](https://www.linkedin.com/in/frances-romero/)
+[LinkedIn](https://www.linkedin.com/in/frances-romero/)
 
 ## Thanks
 
